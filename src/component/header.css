@@ -1,0 +1,89 @@
+.nav{
+    min-height:4rem;
+    max-width:100vw;
+    background-color: #4040cf;
+    display:flex;
+    justify-content: space-around;
+  }
+  .btn{
+    border:2px solid;
+    height: 2rem;
+    width:4rem;
+    font-size: larger;
+    align-self: center;
+  }
+  span{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    align-self: center;
+  }
+  .cart{
+    height:4rem;
+    align-self: center;
+  }
+  .mobile-image{
+  height:20rem;
+  margin:0 4rem;
+  }
+  .mobiles{
+    border:2px solid rgba(0,0,0,0.1);
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .cart-btn{
+height:4rem;
+width:20rem;
+border:3px solid black;
+font-weight: bolder;
+background-color: #1e4e90;
+color:white;
+  }
+  .grocery{
+    border: 2px solid rgba(0,0,0,0);
+   min-width: 15rem;
+   display: inline-block;
+   justify-content: center;
+   align-items: center; 
+   margin-top: 1rem;
+   margin-left:.6rem
+  }
+  .grocery-image{
+    height:10rem;
+  }
+  .fes{
+    border: 2px solid rgba(0,0,0,0);
+    min-width: 15rem;
+    display: inline-block;
+    justify-content: center;
+    align-items: center; 
+    margin:1rem 0.2em;
+   
+  }
+  .feshion-img{
+    height:10rem
+  }
+  .ele{
+    border: 2px solid rgba(0,0,0,0);
+    min-width: 15rem;
+    display: inline-block;
+    justify-content: center;
+    align-items: center; 
+    margin:1rem 0.2em;
+  }
+  .ele-img{
+    height:10rem;
+  }
+  .beauty{
+    border: 2px solid rgba(0,0,0,0);
+    min-width: 15rem;
+    display: inline-block;
+    justify-content: center;
+    align-items: center; 
+    margin:1rem 0.2em;
+  }
+  .b-img{
+    height:10rem;
+  }
+  

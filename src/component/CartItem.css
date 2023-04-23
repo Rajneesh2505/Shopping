@@ -1,0 +1,15 @@
+.carts{
+    display:flex;
+    border:1px solid rgba(0,0,0,.1);
+    flex-direction: row;
+}
+.cart-img{
+    height:8rem;
+}
+.amount{
+    float:right;
+    margin-left:auto;
+}
+.itemName{
+    margin:auto 2rem;
+}
